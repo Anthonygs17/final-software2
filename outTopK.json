@@ -1,0 +1,55 @@
+{
+    "restaurants": [
+        {
+            "distance": 31.0,
+            "house_number": "124",
+            "name": "José Antonio",
+            "street": "Avenida de la Floresta"
+        },
+        {
+            "distance": 48.22,
+            "house_number": "545",
+            "name": "La Bistecca",
+            "street": "Avenida Primavera"
+        },
+        {
+            "distance": 63.16,
+            "house_number": "557",
+            "name": "Panchita",
+            "street": "Avenida Primavera"
+        },
+        {
+            "distance": 146.74,
+            "house_number": "464",
+            "name": "Kilimanjaro",
+            "street": "Avenida Primavera"
+        },
+        {
+            "distance": 148.03,
+            "house_number": "640",
+            "name": "La Basílica 640",
+            "street": "Avenida Primavera"
+        },
+        {
+            "distance": 157.78,
+            "house_number": "643",
+            "name": "Popolo Pizza Chacarilla",
+            "street": "Avenida Primavera"
+        },
+        {
+            "distance": 196.66,
+            "name": "Tanta",
+            "street": "Avenida Primavera"
+        },
+        {
+            "distance": 210.22,
+            "house_number": "679",
+            "name": "Al Asador",
+            "street": "Avenida Primavera"
+        }
+    ],
+    "temperature": {
+        "max": 21.4,
+        "min": 18.1
+    }
+}
